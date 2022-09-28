@@ -1,2 +1,0 @@
-# cinema-project
-Учебный проект
